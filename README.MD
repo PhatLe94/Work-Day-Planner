@@ -1,3 +1,4 @@
+<img width="1332" alt="WORK DAY PLANNER SCREENSHOT" src="https://user-images.githubusercontent.com/87452473/128586324-3237d43f-6888-40f3-8f89-dd1de9e01d31.png">
 Work Day Scheduler
 
 This calendar application was created using HTML, CSS, and Javascript while using Bootstrap & jQuery.
